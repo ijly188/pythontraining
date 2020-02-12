@@ -25,5 +25,5 @@ class IO:
 # 使用類別
 # print(IO.supportedSrcs)
 # IO.read("file")
-# IO.read(IO.supportedSrcs[1])
+IO.read(IO.supportedSrcs[1])
 IO.read("internet")
